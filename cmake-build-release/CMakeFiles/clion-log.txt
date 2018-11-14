@@ -1,0 +1,80 @@
+C:\Users\Caleb\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4892.24\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" E:\Code\OpenGL\_learnOpenGl
+-- The C compiler identification is GNU 6.3.0
+CMake Error at C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:517 (file):
+  file STRINGS file
+  "E:/Code/OpenGL/_learnOpenGl/cmake-build-release/CMakeFiles/3.12.3/CompilerIdCXX/a.exe"
+  cannot be read.
+Call Stack (most recent call first):
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCXXCompiler.cmake:107 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:523 (list):
+  list sub-command REMOVE_DUPLICATES requires list to be present.
+Call Stack (most recent call first):
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCXXCompiler.cmake:107 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:589 (file):
+  file failed to open for reading (Invalid argument):
+
+    E:/Code/OpenGL/_learnOpenGl/cmake-build-release/CMakeFiles/3.12.3/CompilerIdCXX/a.exe
+Call Stack (most recent call first):
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCXXCompiler.cmake:107 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:591 (string):
+  string begin index: 1 is out of range 0 - 0
+Call Stack (most recent call first):
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCXXCompiler.cmake:107 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:599 (math):
+  math cannot parse the expression: " * 16 + ": syntax error, unexpected
+  exp_TIMES, expecting exp_PLUS or exp_MINUS or exp_OPENPARENT or exp_NUMBER
+  (2)
+Call Stack (most recent call first):
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCXXCompiler.cmake:107 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:601 (file):
+  file failed to open for reading (Invalid argument):
+
+    E:/Code/OpenGL/_learnOpenGl/cmake-build-release/CMakeFiles/3.12.3/CompilerIdCXX/a.exe
+Call Stack (most recent call first):
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCompilerId.cmake:37 (CMAKE_DETERMINE_COMPILER_ID_CHECK)
+  C:/Users/Caleb/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/182.4892.24/bin/cmake/win/share/cmake-3.12/Modules/CMakeDetermineCXXCompiler.cmake:107 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+-- The CXX compiler identification is GNU 6.3.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring incomplete, errors occurred!
+See also "E:/Code/OpenGL/_learnOpenGl/cmake-build-release/CMakeFiles/CMakeOutput.log".
+See also "E:/Code/OpenGL/_learnOpenGl/cmake-build-release/CMakeFiles/CMakeError.log".
+
+CMake Error:
+  --------------------------------------------------------------------------------------------
+  Antivirus software might have incorrectly identified files generated by CMake as malicious.
+  To workaround this problem, please exclude the project dir and 'C:\MinGW' from the scanning.
+  --------------------------------------------------------------------------------------------
