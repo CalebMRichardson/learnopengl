@@ -1,4 +1,4 @@
-/opt/clion-2018.2.6/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" /home/user/projects/code/learnopengl
+C:\Users\caleb.richardson\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4892.24\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE= -G "CodeBlocks - MinGW Makefiles" C:\code\learnopengl
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/user/projects/code/learnopengl
+-- Build files have been written to: C:/code/learnopengl

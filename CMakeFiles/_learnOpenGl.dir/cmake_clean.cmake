@@ -1,8 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/_learnOpenGl.dir/main.cpp.o"
-  "CMakeFiles/_learnOpenGl.dir/glad.c.o"
+  "CMakeFiles/_learnOpenGl.dir/main.cpp.obj"
+  "CMakeFiles/_learnOpenGl.dir/glad.c.obj"
+  "CMakeFiles/_learnOpenGl.dir/stb_image.cpp.obj"
   "_learnOpenGl.pdb"
-  "_learnOpenGl"
+  "_learnOpenGl.exe"
+  "_learnOpenGl.exe.manifest"
+  "lib_learnOpenGl.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/user/projects/code/learnopengl/glad.c" "/home/user/projects/code/learnopengl/CMakeFiles/_learnOpenGl.dir/glad.c.o"
+  "C:/code/learnopengl/glad.c" "C:/code/learnopengl/CMakeFiles/_learnOpenGl.dir/glad.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -14,7 +14,8 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "inlcudes"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/user/projects/code/learnopengl/main.cpp" "/home/user/projects/code/learnopengl/CMakeFiles/_learnOpenGl.dir/main.cpp.o"
+  "C:/code/learnopengl/main.cpp" "C:/code/learnopengl/CMakeFiles/_learnOpenGl.dir/main.cpp.obj"
+  "C:/code/learnopengl/stb_image.cpp" "C:/code/learnopengl/CMakeFiles/_learnOpenGl.dir/stb_image.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

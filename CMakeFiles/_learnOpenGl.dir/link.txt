@@ -1,1 +1,3 @@
-/usr/bin/c++     CMakeFiles/_learnOpenGl.dir/main.cpp.o CMakeFiles/_learnOpenGl.dir/glad.c.o  -o _learnOpenGl -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi -ldl -lXxf86vm -lXcursor -lXinerama 
+C:\Users\caleb.richardson\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\182.4892.24\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\_learnOpenGl.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\_learnOpenGl.dir/objects.a @CMakeFiles\_learnOpenGl.dir\objects1.rsp
+C:\MinGW\bin\g++.exe    -Wl,--whole-archive CMakeFiles\_learnOpenGl.dir/objects.a -Wl,--no-whole-archive  -o _learnOpenGl.exe -Wl,--out-implib,lib_learnOpenGl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\_learnOpenGl.dir\linklibs.rsp

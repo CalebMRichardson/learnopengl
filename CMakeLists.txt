@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 14)
 # uncomment for deployment
 # set(CMAKE_EXE_LINKER_FLAGS -static)
 
-add_executable(_learnOpenGl main.cpp glad.c Shader.h)
+add_executable(_learnOpenGl main.cpp glad.c Shader.h stb_image.h stb_image.cpp)
 
 include_directories(inlcudes)
 
