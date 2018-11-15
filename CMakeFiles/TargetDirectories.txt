@@ -1,0 +1,3 @@
+/home/user/projects/code/learnopengl/CMakeFiles/rebuild_cache.dir
+/home/user/projects/code/learnopengl/CMakeFiles/edit_cache.dir
+/home/user/projects/code/learnopengl/CMakeFiles/_learnOpenGl.dir

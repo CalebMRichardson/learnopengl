@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="_learnOpenGl"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/user/projects/code/learnopengl"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/user/projects/code/learnopengl"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/user/projects/code/learnopengl"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_learnOpenGl">
+				<Option output="/home/user/projects/code/learnopengl/_learnOpenGl" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user/projects/code/learnopengl"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/user/projects/code/learnopengl/inlcudes"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 _learnOpenGl"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_learnOpenGl/fast">
+				<Option output="/home/user/projects/code/learnopengl/_learnOpenGl" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/user/projects/code/learnopengl"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/user/projects/code/learnopengl/inlcudes"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 _learnOpenGl/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/user/projects/code/learnopengl/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/user/projects/code/learnopengl/Shader.h">
+			<Option target="_learnOpenGl"/>
+		</Unit>
+		<Unit filename="/home/user/projects/code/learnopengl/glad.c">
+			<Option target="_learnOpenGl"/>
+		</Unit>
+		<Unit filename="/home/user/projects/code/learnopengl/main.cpp">
+			<Option target="_learnOpenGl"/>
+		</Unit>
+		<Unit filename="/home/user/projects/code/learnopengl/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

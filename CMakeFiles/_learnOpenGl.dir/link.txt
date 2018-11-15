@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/_learnOpenGl.dir/main.cpp.o CMakeFiles/_learnOpenGl.dir/glad.c.o  -o _learnOpenGl -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi -ldl -lXxf86vm -lXcursor -lXinerama 
